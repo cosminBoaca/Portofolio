@@ -18,13 +18,15 @@ CMUSphinx:
 
 http://sourceforge.net/p/cmusphinx/code/HEAD/tree/branches/speaker_diarization/
 
-This is a branch of the CMUSphinx project which is mainly developed by me ( my username is darkseeker ).
+This is a branch of the CMUSphinx project which  can be used to identify how many different
 
-It can be used to identify how many different speakers are in a sound recording
+speakers are in a sound recording
+
+It is mainly developed by me ( my username is darkseeker ).
 
 You can check this here http://sourceforge.net/p/cmusphinx/_members/. 
 
-I am listed as one of the developers.
+I am listed as one of the project's developers.
 
 A full list of my contributions to this project may be found at :
 
